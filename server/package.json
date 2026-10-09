@@ -11,5 +11,10 @@
     "express"
   ],
   "author": "Anish Kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "graphql": "^16.14.2",
+    "graphql-tag": "^2.12.7"
+  }
 }
